@@ -31,42 +31,15 @@ Second Screen : Dashboard
 
 <img src = https://user-images.githubusercontent.com/79219844/134811694-be01afdb-6e00-492e-b2ea-06c2bd57da15.jpeg width= 300>
  
-Third Screen : You may select a contact to chat with and start chatting
+Third Screen : User can select a contact to chat with and start chatting
 
 <img src = https://user-images.githubusercontent.com/79219844/134811875-6ddecd00-49c3-41a1-a949-133a2ca8bc4a.jpeg width= 300>
 
-Fourth Screen : You may upload you Profile pictures 
+Fourth Screen : User can upload  Profile pictures 
 
-
-
-<img src=https://user-images.githubusercontent.com/79219844/134812065-70ef9714-a715-4667-8631-af1d8d67547d.jpeg  width =300>
-
-
-
-
-
-
-
-
-
-**Toast Message Appears**
+<img src=https://user-images.githubusercontent.com/79219844/134812065-70ef9714-a715-4667-8631-af1d8d67547d.jpeg  width =300> 
  
- There we can observe like a  Status  Message Appears **Signed Up Successfully**
- 
- ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-![2021-09-26 (15)](https://user-images.githubusercontent.com/55526191/134803050-f89eb7d2-c80d-4bf2-8610-da0ca443bf17.png)
- 
- 
- 
- 
- **Profile Uploading and Then Log Out**
- 
- 
- ![2021-09-26 (15)](https://user-images.githubusercontent.com/55526191/134803506-de38848b-f9bf-4176-8c5b-0082bf89fabe.png)
-
- 
- 
- 
+Lastly , the user can Logout from the App
 
 
 
