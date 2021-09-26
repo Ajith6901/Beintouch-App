@@ -6,17 +6,17 @@
 - Jaydeep
 - Siva
 
-# Name of the Application - BeinTouch App
+# Name : BeinTouch App
 
-We have  Build A User Friendly Application consisting of Email ,Password and it will successfully register and we need to Login in that App.We will login and choose to Upload or whatever we need we can do it.We have Used Firebase Authentication to check and Track the list of Usernames and as well as User Ids. 
+We have  build a user friendly  chat application  wherein a user can send messages to other people . So basically in this app a user can chat with anyone who has registered in the app
 
 # Tools Used:
 
-- Android Studio
-- FireBase(Authentication)
-- Java Language 
-- Xml (For Frontened)
-- Emulators
+- Android Studio(SDK)
+- FireBase(for authentication ,Realtime Database , Cloud Storage)
+- Java 
+- Xml 
+
 
 
 
