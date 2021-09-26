@@ -35,6 +35,13 @@ Third Screen : You may select a contact to chat with and start chatting
 
 <img src = https://user-images.githubusercontent.com/79219844/134811875-6ddecd00-49c3-41a1-a949-133a2ca8bc4a.jpeg width= 300>
 
+Fourth Screen : You may upload you Profile pictures 
+
+
+
+<img src=https://user-images.githubusercontent.com/79219844/134812065-70ef9714-a715-4667-8631-af1d8d67547d.jpeg  width =300>
+
+
 
 
 
