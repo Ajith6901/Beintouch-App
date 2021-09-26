@@ -25,11 +25,13 @@ A user must either register or login into the App
 
 ![134797700-c5a60d5c-9762-430b-adf2-b5e3a99ad1b0](https://user-images.githubusercontent.com/55526191/134802502-3fa8f338-3ef5-4904-b2c6-8312f7a6abb9.png)
 
+ ![](https://user-images.githubusercontent.com/55526191/134802502-3fa8f338-3ef5-4904-b2c6-8312f7a6abb9.png=250x250)
 
  **Toast Message Appears**
  
  There we can observe like a  Status  Message Appears **Signed Up Successfully**
  
+ ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 ![2021-09-26 (15)](https://user-images.githubusercontent.com/55526191/134803050-f89eb7d2-c80d-4bf2-8610-da0ca443bf17.png)
  
  
