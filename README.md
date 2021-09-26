@@ -31,7 +31,16 @@ Second Screen : Dashboard
 
 <img src = https://user-images.githubusercontent.com/79219844/134811694-be01afdb-6e00-492e-b2ea-06c2bd57da15.jpeg width= 300>
  
-Third Screen : 
+Third Screen : You may select a contact to chat with and start chatting
+
+<img src = https://user-images.githubusercontent.com/79219844/134811875-6ddecd00-49c3-41a1-a949-133a2ca8bc4a.jpeg width= 300>
+
+
+
+
+
+
+
 
 **Toast Message Appears**
  
