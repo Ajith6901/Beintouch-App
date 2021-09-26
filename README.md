@@ -1,10 +1,11 @@
 # Theme- Social
 
-# Team Leaders
+# Team Members
 
-- Siva (Team leader)
-- Ajith 
-- Jaydeep
+- Siva (Team leader) (mailid: atchyut.19bce7513@vitap.ac.in)
+- Ajith (mailid: ajith.19bce7673@vitap.ac.in)
+- Jaydeep(mailid: jaideep.19bcn7035@vitap.ac.in)
+
 
 
 # Name : BeinTouch App
