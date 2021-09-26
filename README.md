@@ -23,11 +23,17 @@ We have  build a user friendly  chat application  where  a user can send message
 First Screen : Login/Signup 
 A user must either register or login into the App
 
-![134797700-c5a60d5c-9762-430b-adf2-b5e3a99ad1b0](https://user-images.githubusercontent.com/55526191/134802502-3fa8f338-3ef5-4904-b2c6-8312f7a6abb9.png)
 
- ![](https://user-images.githubusercontent.com/55526191/134802502-3fa8f338-3ef5-4904-b2c6-8312f7a6abb9.png=250x250)
+<img src=https://user-images.githubusercontent.com/55526191/134802502-3fa8f338-3ef5-4904-b2c6-8312f7a6abb9.png width= 300>
 
- **Toast Message Appears**
+
+Second Screen : Dashboard
+
+<img src = https://user-images.githubusercontent.com/79219844/134811694-be01afdb-6e00-492e-b2ea-06c2bd57da15.jpeg width= 300>
+ 
+Third Screen : 
+
+**Toast Message Appears**
  
  There we can observe like a  Status  Message Appears **Signed Up Successfully**
  
